@@ -1,25 +1,25 @@
-// //1.Solicitar 3 numeros (entre el 1 y el 100) y definir cual es el mayor.
-// let a = prompt("Escribe un numero del 1 al cien");
-// let b = prompt("Escribe un segundo numero del 1 al cien");
-// let c = prompt("Escribe un tercer numero del 1 al cien");
+1.Solicitar 3 numeros (entre el 1 y el 100) y definir cual es el mayor.
+let a = prompt("Escribe un numero del 1 al cien");
+let b = prompt("Escribe un segundo numero del 1 al cien");
+let c = prompt("Escribe un tercer numero del 1 al cien");
 
 
-// if (a > b && c){
-//         alert(a + " es el mayor");
-// }else if (b > a && c){
-//         alert(b + " es el mayor"); 
+ if (a > b && c){
+         alert(a + " es el mayor");
+ }else if (b > a && c){
+         alert(b + " es el mayor"); 
 
-// }else if (c > a && b){
-//         alert(c + " es el mayor");
-// }
+ }else if (c > a && b){
+         alert(c + " es el mayor");
+ }
 
 
 
-// //2.Solicitar 3 numeros (entre el 1 y el 100) y definir el menor de los tres .
+ 2.Solicitar 3 numeros (entre el 1 y el 100) y definir el menor de los tres .
 
-// let d = prompt("Escribe un numero del 1 al cien");
-// let f = prompt("Escribe un segundo numero del 1 al cien");
-// let g = prompt("Escribe un tercer numero del 1 al cien");
+ let d = prompt("Escribe un numero del 1 al cien");
+ let f = prompt("Escribe un segundo numero del 1 al cien");
+ let g = prompt("Escribe un tercer numero del 1 al cien");
 
 // if (d < f && g){
 //     alert(d + " es el menor");
